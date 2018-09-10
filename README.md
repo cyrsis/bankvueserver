@@ -1,5 +1,10 @@
 # bankvueserver
 
+## Working with MogoDB in docker
+
+Database name
+`globomantics`
+
 
 ## Nodejs Mongo server
 
