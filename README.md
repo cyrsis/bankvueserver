@@ -5,6 +5,12 @@
 Database name
 `globomantics`
 
+## Npm dependenice
+
+`yarn add morgan`
+
+`yarn add body-parser`
+
 
 ## Nodejs Mongo server
 
